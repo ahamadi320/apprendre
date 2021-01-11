@@ -1,0 +1,1 @@
+<h1>Les comptes : <?= $params['slug'] ?></h1>
